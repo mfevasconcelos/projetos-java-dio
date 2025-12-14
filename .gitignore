@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+controle-candidatos/.classpath
+controle-candidatos/.project
+controle-candidatos/.settings/org.eclipse.core.resources.prefs
+controle-candidatos/.settings/org.eclipse.jdt.core.prefs
